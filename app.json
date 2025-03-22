@@ -3,6 +3,7 @@
     "name": "cave-digital-task-manager",
     "slug": "cave-digital-task-manager",
     "version": "1.0.0",
+    "privacy": "public",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -41,11 +42,9 @@
         "projectId": "08fb0d15-5958-479e-ae53-6021de0de0c5"
       }
     },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
     "updates": {
       "url": "https://u.expo.dev/08fb0d15-5958-479e-ae53-6021de0de0c5"
-    }
+    },
+    "runtimeVersion": "1.0.0"
   }
 }
